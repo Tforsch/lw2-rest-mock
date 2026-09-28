@@ -1,0 +1,10 @@
+{
+  "bartenders": [
+    { "id": 1, "name": "Maksym Davyviak", "experience_years": 3 },
+    { "id": 2, "name": "Anna", "experience_years": 5 }
+  ],
+  "drinks": [
+    { "id": 1, "title": "Margarita", "bartenderId": 1, "tags": ["tequila", "lime"] },
+    { "id": 2, "title": "Mojito", "bartenderId": 2, "tags": ["rum", "mint"] }
+  ]
+}
